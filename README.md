@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @herressy
 - 👀 I’m interested in coding, chess, hiking, sport, music, space, & more.
-- 💞️ I’m looking to collaborate on anything.
+- 💞️ I’m looking to collaborate on anything @ Python, Django & HTMX.
 - 📫 Reach me at petertomasko6@gmail.com
